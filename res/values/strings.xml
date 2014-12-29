@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Line Coding Schemes</string>
+    <string name="about">About</string>
+    <string name="data_hint">Enter Data Bits</string>
+    <string name="how_to_use">How to use</string>
+    <string name="detail_of_app">This application is developed by Arsalan Ali.</string>
+    <string name="copyright">Copyright © 2014 </string>
+    <string name="how_to_detail">Swipe right to look next line coding scheme and swipe left to look previous scheme.</string>
+     
+
+</resources>
